@@ -5,8 +5,10 @@ A collaborative introduction to modern JavaScript (ES2015+), React, and the key 
 
 ## Introduction
 
-What are you building?
-What is your development background?
+* What are you building?  
+* What is your development background?
+* What is your current JS experience?
+* What do you already know about React?
 
 ## Development Environment
 
@@ -42,8 +44,9 @@ Discuss options and review development environment for session
 *	Library vs framework
 *	[Props](https://reactjs.org/docs/components-and-props.html)
 *	[State](https://reactjs.org/docs/components-and-props.html)
+    * [Four immutable approaches](https://medium.freecodecamp.org/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5)
 *	[createClass](https://reactjs.org/docs/react-without-es6.html) and [Class components](https://reactjs.org/docs/components-and-props.html#functional-and-class-components]
-*	[Functional components](https://reactjs.org/docs/components-and-props.html#functional-and-class-components) [The good]() [The bad]()
+*	[Functional components](https://reactjs.org/docs/components-and-props.html#functional-and-class-components) Here are [the good parts]() Here are [the bad parts](https://medium.freecodecamp.org/7-reasons-to-outlaw-reacts-functional-components-ff5b5ae09b7c)
 * [Controlled vs Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)
 *	[Lifecycle methods](https://reactjs.org/docs/state-and-lifecycle.html)
 *	Conditionals in render - Ternary and logical &&, ||, in render, multiple return/return early
@@ -51,11 +54,12 @@ Discuss options and review development environment for session
 *	Children
 *	Component composition
 *	Typechecking via [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html) and alternatives
-    *	Centralizing declarations
-    *	Declaring shapes
+    *	[Centralizing declarations](https://medium.freecodecamp.org/react-pattern-centralized-proptypes-f981ff672f3b)
+    *	[Declaring shapes]()
     *	PropTypes vs TypeScript and Flow
 *	[Default props](https://reactjs.org/docs/typechecking-with-proptypes.html#default-prop-values)
 *	[Container vs Presentation components](https://medium.com/@dan_abramov/smart-and-dumb-components-7ca2f9a7c7d0) (aka smart vs dumb)
+* [The 8 Key React Component Decisions](https://medium.freecodecamp.org/8-key-react-component-decisions-cc965db11594)
 
 
 
