@@ -13,30 +13,38 @@ A collaborative introduction to modern JavaScript (ES2015+), React, and the key 
 ## Development Environment
 
 Discuss options and review development environment for session
-*	Install [Node](http://nodejs.org), [Git](http://git-scm.com). 
+[ ]	Install [Node](http://nodejs.org), [Git](http://git-scm.com). 
 *	Git overview
 *	Select a JS editor
     * [VS Code](https://code.visualstudio.com)
-    * [Webstorm(https://www.jetbrains.com/webstorm/)
+    * [Webstorm](https://www.jetbrains.com/webstorm/)
 *	Explore [Codesandbox](https://codesandbox.io)
 *	Set up [create-react-app](https://github.com/facebookincubator/create-react-app) and explore
 
 ## Modern JavaScript
 
-*	Arrow functions
-*	Const/let
-*	Classes
-*	Properties
+*	[Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+*  [Const](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/const)/[let](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let)
+*	[Classes](https://babeljs.io/learn-es2015/#ecmascript-2015-features-classes)
+*	[Properties](
+*  [Template strings](https://babeljs.io/learn-es2015/#ecmascript-2015-features-template-strings)
+*  [Enhanced object literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer)
+   *  Object shorthand
 *	Object.assign
-*	Rest/Spread
-*	Destructuring
-*	ES modules vs [CommonJS](https://nodejs.org/docs/latest/api/modules.html) [Simple example]()
+*	[Rest/Spread](https://babeljs.io/learn-es2015/#ecmascript-2015-features-default-rest-spread)
+*	[Destructuring](https://babeljs.io/learn-es2015/#ecmascript-2015-features-destructuring)
+*	[ES modules](https://babeljs.io/learn-es2015/#ecmascript-2015-features-modules) vs [CommonJS](https://nodejs.org/docs/latest/api/modules.html) [Simple example](https://stackoverflow.com/a/16522990/26180)
   *	Imports
   *	Exports
   *	Named imports
   *	Default exports
-*	Async patterns 
-*	Debugging via sourcemaps and setting breakpoints
+*	[Async patterns]() 
+  * Callbacks
+  * Promises
+  * Async/Await
+*	Debugging
+  * Sourcemaps
+  * debugger;
 
 ## React Fundamentals
 
