@@ -4,10 +4,12 @@
 A collaborative introduction to modern JavaScript (ES2015+), React, and the key pieces of its ecosystem. The day will alternate between presentation and hands-on exercises. Attendees will get comfortable with React and modern JavaScript approaches by example, by building a React app from scratch.
 
 ## Introduction
+
 What are you building?
 What is your development background?
 
 ## Development Environment
+
 Discuss options and review development environment for session
 *	Install Node.js, Git. 
 *	Git overview
@@ -16,6 +18,7 @@ Discuss options and review development environment for session
 *	Set up [create-react-app](https://github.com/facebookincubator/create-react-app) and explore
 
 ## Modern JavaScript
+
 *	Arrow functions
 *	Const/let
 *	Classes
@@ -31,8 +34,9 @@ Discuss options and review development environment for session
 *	Async patterns 
 *	Debugging via sourcemaps and setting breakpoints
 
-React Fundamentals
-*	Why React?
+## React Fundamentals
+
+##	Why React?
 *	[Virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom) 
 * [JSX](https://reactjs.org/docs/jsx-in-depth.html) and [React without JSX](https://reactjs.org/docs/react-without-jsx.html)
 *	Library vs framework
