@@ -47,7 +47,7 @@ Discuss options and review development environment for session
 *	[Props](https://reactjs.org/docs/components-and-props.html)
 *	[State](https://reactjs.org/docs/components-and-props.html)
     * [Four immutable approaches](https://medium.freecodecamp.org/handling-state-in-react-four-immutable-approaches-to-consider-d1f5c00249d5)
-*	[createClass](https://reactjs.org/docs/react-without-es6.html) and [Class components](https://reactjs.org/docs/components-and-props.html#functional-and-class-components]
+*	[createClass](https://reactjs.org/docs/react-without-es6.html) and [Class components](https://reactjs.org/docs/components-and-props.html#functional-and-class-components)
 *	[Functional components](https://reactjs.org/docs/components-and-props.html#functional-and-class-components) 
     * [The good parts](https://hackernoon.com/react-stateless-functional-components-nine-wins-you-might-have-overlooked-997b0d933dbc) 
     * [The bad parts](https://medium.freecodecamp.org/7-reasons-to-outlaw-reacts-functional-components-ff5b5ae09b7c)
