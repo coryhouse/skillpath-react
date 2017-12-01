@@ -13,9 +13,11 @@ A collaborative introduction to modern JavaScript (ES2015+), React, and the key 
 ## Development Environment
 
 Discuss options and review development environment for session
-*	Install Node.js, Git. 
+*	Install [Node](http://nodejs.org), [Git](http://git-scm.com). 
 *	Git overview
 *	Select a JS editor
+    * [VS Code](https://code.visualstudio.com)
+    * [Webstorm(https://www.jetbrains.com/webstorm/)
 *	Explore [Codesandbox](https://codesandbox.io)
 *	Set up [create-react-app](https://github.com/facebookincubator/create-react-app) and explore
 
@@ -43,6 +45,11 @@ Discuss options and review development environment for session
 * [JSX](https://reactjs.org/docs/jsx-in-depth.html)
     * [JSX - The Other Side of the Coin](https://medium.freecodecamp.org/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98)
     * [React without JSX](https://reactjs.org/docs/react-without-jsx.html)
+    * [String literals](https://reactjs.org/docs/jsx-in-depth.html#string-literals)
+    * [Props default true](https://reactjs.org/docs/jsx-in-depth.html#props-default-to-true)
+    * [Spread attributes](https://reactjs.org/docs/jsx-in-depth.html#spread-attributes)
+    * [Booleans, null, undefined are ignored](https://reactjs.org/docs/jsx-in-depth.html#booleans-null-and-undefined-are-ignored)
+    *
 *	Library vs framework
 *	[Props](https://reactjs.org/docs/components-and-props.html)
 *	[State](https://reactjs.org/docs/components-and-props.html)
@@ -57,7 +64,6 @@ Discuss options and review development environment for session
 *	[Lifecycle methods](https://reactjs.org/docs/state-and-lifecycle.html)
 *	Conditionals in render - Ternary and logical &&, ||, in render, multiple return/return early
 * [Keys](https://reactjs.org/docs/lists-and-keys.html)
-*	Children
 *	Component composition
 *	Typechecking via [PropTypes](https://reactjs.org/docs/typechecking-with-proptypes.html)
     *	[Centralizing declarations](https://medium.freecodecamp.org/react-pattern-centralized-proptypes-f981ff672f3b)
