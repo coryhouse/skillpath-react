@@ -16,25 +16,26 @@ class EventContainer extends React.Component {
   }
 
   onChange = e => {
-    // Approach #1: Object spread
+    // Approach #1: Object spread - Recommended
     const event = { ...this.state.event };
     // This is equivalent to event.title if e.target.name = title
     event[e.target.name] = e.target.value;
 
     // Approach #2: Object.assign
-    const event = Object.assign({}, this.state.event, {
-      [e.target.name]: e.target.value
-    });
+    // const event = Object.assign({}, this.state.event, {
+    //   [e.target.name]: e.target.value
+    // });
 
-    // Approach #3: deep-copy on npm
+    // Approach #3: deep-copy on npm - Recommended when working with nested objects
     // const event = dcopy(event);
     // event[e.target.name] = e.target.value;
 
-    this.setState({ event: event });
+    // using property shorthand syntax since right and left hand side match.
+    this.setState({ event });
   };
 
   render() {
-    return <Event onChange={this.onChange} event={this.state.event} />;
+    return <Event onChange={this.onChange} />;
   }
 }
 

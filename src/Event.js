@@ -34,8 +34,17 @@ function Event(props) {
 }
 
 Event.propTypes = {
-  event: event.isRequired,
+  event: event,
   onChange: PropTypes.func.isRequired
+};
+
+Event.defaultProps = {
+  event: {
+    seminarNumber: 5,
+    title: "No title provided",
+    date: "no date",
+    price: 5
+  }
 };
 
 export default Event;
