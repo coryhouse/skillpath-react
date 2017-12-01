@@ -1,4 +1,5 @@
 import React from "react";
+import PropTypes from "prop-types";
 
 class EventList extends React.Component {
   render() {
@@ -29,5 +30,16 @@ class EventList extends React.Component {
     );
   }
 }
+
+EventList.propTypes = {
+  events: PropTypes.arrayOf(
+    PropTypes.shape({
+      seminarNumber: PropTypes.number.isRequired,
+      title: PropTypes.string.isRequired,
+      date: PropTypes.string.isRequired,
+      price: PropTypes.number.isRequired
+    })
+  ).isRequired
+};
 
 export default EventList;
