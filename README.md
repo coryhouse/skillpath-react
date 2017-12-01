@@ -40,8 +40,9 @@ Discuss options and review development environment for session
 
 ##	Why React?
 *	[Virtual DOM](https://reactjs.org/docs/faq-internals.html#what-is-the-virtual-dom) 
-* [JSX](https://reactjs.org/docs/jsx-in-depth.html) and [React without JSX](https://reactjs.org/docs/react-without-jsx.html)
-* [JSX - The Other Side of the Coin](https://medium.freecodecamp.org/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98)
+* [JSX](https://reactjs.org/docs/jsx-in-depth.html)
+    * [JSX - The Other Side of the Coin](https://medium.freecodecamp.org/react-s-jsx-the-other-side-of-the-coin-2ace7ab62b98)
+    * [React without JSX](https://reactjs.org/docs/react-without-jsx.html)
 *	Library vs framework
 *	[Props](https://reactjs.org/docs/components-and-props.html)
 *	[State](https://reactjs.org/docs/components-and-props.html)
