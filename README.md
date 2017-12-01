@@ -5,15 +5,15 @@ A collaborative introduction to modern JavaScript (ES2015+), React, and the key 
 
 ## Introduction
 
-* What are you building?  
-* What is your development background?
-* What is your current JS experience?
-* What do you already know about React?
+- [ ] What are you building?  
+- [ ] What is your development background?
+- [ ] What is your current JS experience?
+- [ ] What do you already know about React?
 
 ## Development Environment
 
 Discuss options and review development environment for session
-[ ]	Install [Node](http://nodejs.org), [Git](http://git-scm.com). 
+- [ ] Install [Node](http://nodejs.org), [Git](http://git-scm.com). 
 *	Git overview
 *	Select a JS editor
     * [VS Code](https://code.visualstudio.com)
